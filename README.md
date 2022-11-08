@@ -27,3 +27,7 @@
 
 ---
 
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/AimiP02/d07a89224e1d926b32c2d852c961c344" target="_blank">📊 Weekly development breakdown</a>
+
+<!-- waka-box end -->
