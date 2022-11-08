@@ -5,7 +5,7 @@
 
 :innocent: Learning **Compiler** now... :innocent:
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AimiP02&show_icons=true&locale=cn">]()
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=AimiP02&show_icons=true&locale=cn">]()
 
 #### Skills and Tools
 
