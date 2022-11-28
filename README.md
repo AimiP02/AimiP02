@@ -24,10 +24,3 @@
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
-
----
-
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/AimiP02/d07a89224e1d926b32c2d852c961c344" target="_blank">📊 Weekly development breakdown</a>
-
-<!-- waka-box end -->
