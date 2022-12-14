@@ -1,6 +1,6 @@
 ### Hi, I3r0ny@ here! 👋
 
-[![My Blog](https://img.shields.io/badge/Blog-I3r0ny%40-%23760f10?style=flat-square&logo=Notion&logoColor=white)](https://aimip02.github.io/)
+[![My Blog](https://img.shields.io/badge/Blog-I3r0ny%40-%23760f10?style=flat-square&logo=Notion&logoColor=white)](https://i3r0nya.github.io/)
 [![My BiliBili](https://img.shields.io/badge/BiliBili-%E5%A4%9C%E3%81%A8%E6%B5%B7-%2389c3eb?style=flat-square&logo=Bilibili&logoColor=white)](https://space.bilibili.com/3805775)
 
 :innocent: Learning **Compiler** now... :innocent:
