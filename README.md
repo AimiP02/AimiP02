@@ -12,12 +12,5 @@
 [![](https://img.shields.io/badge/-Markdown-7967c3?style=flat-square&logo=Markdown&logoColor=white)]()
 [![](https://img.shields.io/badge/-Go-50d0d0?style=flat-square&logo=Go&logoColor=white)]()
 
-[![](https://img.shields.io/badge/Reverse-IDA%20Pro-ffc639?style=flat-square)](https://hex-rays.com/ida-pro/)
-[![](https://img.shields.io/badge/Reverse-x64dbg-384d98?style=flat-square)](https://x64dbg.com/)
-[![](https://img.shields.io/badge/Reverse-Cheat%20Engine-606eb2?style=flat-square)](https://www.cheatengine.org/)
-
-[![](https://img.shields.io/badge/-Windows-0f9dde?style=flat-square&logo=Windows%2011&logoColor=ffffff)](https://learn.microsoft.com/zh-cn/windows/win32/apiindex/windows-api-list)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
