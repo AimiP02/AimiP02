@@ -5,8 +5,6 @@
 
 :innocent: Learning **Compiler** now... :innocent:
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=AimiP02&show_icons=true&locale=cn">]()
-
 #### Skills and Tools
 
 [![](https://img.shields.io/badge/-C++-008e74?style=flat-square&logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
