@@ -13,3 +13,5 @@
 
 ![I3r0nya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimiP02&theme=dracula&locale=cn)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=AimiP02&locale=cn&layout=compact&show_icons=true&theme=dracula)  
+
+<a href="http://bgm.tv/user/reinn"><img src="http://bgm.tv/chart/img/468623" border="0" alt="れいん 的个人主页" /></a>
